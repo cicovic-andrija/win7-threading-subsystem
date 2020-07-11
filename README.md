@@ -11,7 +11,7 @@ user-written threads on an Intel 8086 compatible CPU.
 The system provides a support for simple IPC using UNIX-like
 signal sending/handling, and semaphore and event synchronization primitives.
 
-Full project description in Serbian: `OS1_UpravljanjeNitima.pdf`
+Full project description in Serbian: `etfos1.pdf`
 
 ### Notes:
 * System is implemented in C++ (90s version, before C++98 standard), supported
