@@ -9,7 +9,7 @@ primitives.
 
 ## Specification
 
-- Read the full specification of the project, in Serbian: [ETFOS1](./ETFOS1.pdf)
+- Read the full specification of the project, in Serbian: [ETF_OS1](./ETF_OS1.pdf)
 
 ## Notes
 
